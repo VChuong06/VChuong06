@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header"/>
+</p>
+
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Van+Chuong" />
 </p>
@@ -6,11 +11,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=🤖+ESP32+%7C+Robotics+%7C+AIoT;⚙️+Embedded+Systems+Developer;🚀+Building+DIY+Tech+Projects" />
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 ## 💫 About Me
 
 ![Working](https://img.shields.io/badge/🔭-Working_on_ESP32_&_Robotics-36BCF7?style=flat)<br>
 ![Learning](https://img.shields.io/badge/🌱-Learning_Embedded_&_Linux-7EE787?style=flat)<br>
 ![Collab](https://img.shields.io/badge/🤝-Open_for_Robotics_Collab-F2CC60?style=flat)
+
 
 ## 🌐 Socials
 
@@ -42,11 +50,16 @@
 - 🚁 DIY Drone Project
 - 📷 Face Recognition Attendance System
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p align="center">
   💡 <i>"Stay hungry, stay foolish."</i>  
   <br>— Steve Jobs
 </p>
 
-
+<p align="center">
+  <i>TEST PROFILE HIHI</i>  
+</p>
+<p align="center">
+  <img src="https://steemitimages.com/0x0/https://api.inovocom.co.za/assets/gifs/200.gif" width="500"/>
+</p>
