@@ -42,10 +42,11 @@
 - 🚁 DIY Drone Project
 - 📷 Face Recognition Attendance System
 
-
-
-
+---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VChuong06&icon=0&color=8"/>
+  💡 <i>"Stay hungry, stay foolish."</i>  
+  <br>— Steve Jobs
 </p>
+
+
