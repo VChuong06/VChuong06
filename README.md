@@ -15,8 +15,8 @@
 
 ## 💫 About Me
 
-![Working](https://img.shields.io/badge/🔭-Working_on_ESP32_&_Robotics-36BCF7?style=flat)<br>
-![Learning](https://img.shields.io/badge/🌱-Learning_Embedded_&_Linux-7EE787?style=flat)<br>
+![Working](https://img.shields.io/badge/🔭-Working_on_AIoT-36BCF7?style=flat)<br>
+![Learning](https://img.shields.io/badge/🌱-Learning_Embedded_Linux-7EE787?style=flat)<br>
 ![Collab](https://img.shields.io/badge/🤝-Open_for_Robotics_Collab-F2CC60?style=flat)
 
 
