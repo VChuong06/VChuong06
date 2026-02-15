@@ -60,6 +60,4 @@
 <p align="center">
   <i>TEST PROFILE HIHI</i>  
 </p>
-<p align="center">
-  <img src="https://steemitimages.com/0x0/https://api.inovocom.co.za/assets/gifs/200.gif" width="500"/>
-</p>
+
