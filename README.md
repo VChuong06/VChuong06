@@ -57,7 +57,3 @@
   <br>— Steve Jobs
 </p>
 
-<p align="center">
-  <i>TEST PROFILE HIHI</i>  
-</p>
-
